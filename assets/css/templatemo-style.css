@@ -951,7 +951,7 @@ section.my-point{
         margin-bottom: 20px;
     }
 }
-@media screen and (max-width: 760px){
+@media screen and (max-width: 500px){
 
  #html {
     background: url(../images/global-communication-background-business-network-design.jpg) no-repeat center center fixed;
@@ -962,7 +962,13 @@ section.my-point{
 
     overflow: hidden;
     width: 100%;
-    min-height:100vh;
+
+
 }
+     .section {
+        width: 94%;
+        right: 3%;
+        left: 1%;
+    }
 
 }
