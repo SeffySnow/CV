@@ -20,7 +20,7 @@
             left: 0;
             animation: slideOut 1s;
             animation-fill-mode: forwards;
-            animation-delay: 5s;
+            animation-delay: 6.5s;
         }
         @keyframes rotation {
             0%{
