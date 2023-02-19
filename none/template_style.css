@@ -1,0 +1,12 @@
+
+#whole_page {
+    background: url(assets/images/page-bg.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    width: 100%;
+}
+.nav_responsive {
+        display: inline-block;
+    }
