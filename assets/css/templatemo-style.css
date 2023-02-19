@@ -179,26 +179,6 @@ html {
     transition: all 0.5s;
 }
 
-/*.menu .social-network ul li a:hover {*/
-/*    background-color: #e3dcdc;*/
-/*    color: #a43f49;*/
-/*}*/
-
-/*.menu .copyright-text {*/
-/*    position: relative;*/
-/*    margin-top: 60px;*/
-/*}*/
-
-/*.menu .copyright-text p {*/
-/*    border-top: 1px solid rgba(250, 250, 250, 0.1);*/
-/*    display: inline-block;*/
-/*    width: 100%;*/
-/*    padding-left: 30px;*/
-/*    padding-right: 30px;*/
-/*    padding-top: 30px;*/
-/*    font-size: 13px;*/
-/*}*/
-
 .menu:before,
 .menu:after {
     content: "";
@@ -367,55 +347,6 @@ html {
     font-size: 17px;
     /*border:2px solid red;*/
 }
-
-/*.section-heading span {*/
-/*    margin-top: 5px;*/
-/*    font-size: 16px;*/
-/*    color: #fff;*/
-/*    letter-spacing: 0.5px;*/
-/*}*/
-
-
-/* Buttons */
-
-/*.white-button a {*/
-/*    display: inline-block;*/
-/*    padding: 12px 20px;*/
-/*    background-color: #fff;*/
-/*    color: #a43f49;*/
-/*    font-size: 13px;*/
-/*    font-weight: 800;*/
-/*    letter-spacing: 0.5px;*/
-/*    text-transform: uppercase;*/
-/*    transition: all 0.5s;*/
-/*}*/
-
-/*.white-button a:hover {*/
-/*    background-color: #a43f49;*/
-/*    color: #fff;*/
-/*}*/
-
-/*button {*/
-/*    display: inline-block;*/
-/*    padding: 10px 20px;*/
-/*    background-color: #fff;*/
-/*    color: #a43f49;*/
-/*    font-size: 12px;*/
-/*    font-weight: 800;*/
-/*    letter-spacing: 0.5px;*/
-/*    text-transform: uppercase;*/
-/*    transition: all 0.5s;*/
-/*    border: none;*/
-/*    outline: none;*/
-/*    cursor: pointer;*/
-/*}*/
-
-/*button:hover {*/
-/*    outline: none;*/
-/*    background-color: #a43f49;*/
-/*    color: #fff;*/
-/*}*/
-
 
 /* Left & Right Post */
 
@@ -721,14 +652,7 @@ figure.snip1321 * {
   -webkit-transition: all 0.2s ease-out;
   transition: all 0.2s ease-out;
 }
-/*figure.snip1321 figcaption {*/
-/*  top: 50%;*/
-/*  left: 20px;*/
-/*  right: 20px;*/
-/*  position: absolute;*/
-/*  opacity: 0;*/
-/*  z-index: 1;*/
-/*}*/
+
 figure.snip1321 h4 {
     margin-top: 25px;
   margin-bottom: 5px;
