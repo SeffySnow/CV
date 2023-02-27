@@ -958,7 +958,7 @@ section.my-point{
     .isotope-toolbar {
         margin-bottom: 20px;
     }
-    .section .my-point{
+    .section.my-point{
         width:100%;
     }
     #last-sec{
