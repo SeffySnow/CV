@@ -974,6 +974,10 @@ section.my-point{
         right: 4%;
         left: 3%;
     }
+    .section.my-edu{
+        right: 4%;
+        left: 2%;
+    }
     .section.my-point{
         width:100%;
         padding :0;
@@ -981,7 +985,6 @@ section.my-point{
     #last-sec{
         margin:auto !important;
         width:450px !important ;
-        right:3%;
        
     }
     
