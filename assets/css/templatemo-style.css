@@ -798,7 +798,7 @@ section.my-point{
         color: #fff;
         width: 65%;
         right: 5%;
-        left: 3%;
+        left: 30%;
     }
 }
 
@@ -933,8 +933,8 @@ section.my-point{
     }
     .section {
         width: 94%;
-        right: 3%;
-        left: 30%;
+        right: 4%;
+        left: 3%;
     }
 
     .isotope-item {
