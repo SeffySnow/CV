@@ -768,10 +768,12 @@ figure.snip1321 a {
 
 section.my-point{
     border-bottom: none;
+    border:1px solid red;
 }
 
 
 #last-sec{
+    border:1px solid red;
        width:90%;
         height: 70%;
     padding-bottom: 5px;
@@ -962,10 +964,10 @@ section.my-point{
 
      .section {
         width: 94%;
-        right: 3%;
+        right: 4%;
         left: 3%;
     }
-    .section .my-point{
+    .section.my-point{
         width:100%;
     }
     #last-sec{
