@@ -438,7 +438,7 @@ html {
     /*border:2px solid red;*/
 }
 
-/* Left & Right Post */
+
 
 .personality-features {
 
@@ -767,6 +767,7 @@ figure.snip1321 a {
 /* World in my point o view */
 
 section.my-point{
+    width:100%;
     border-bottom: none;
     border:1px solid red;
 }
