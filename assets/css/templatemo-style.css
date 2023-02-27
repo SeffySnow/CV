@@ -221,16 +221,7 @@ html {
 
 /* Sidebar Menu */
 
-/*.menu .image {*/
-/*    margin-top: 60px;*/
-/*}*/
 
-/*.menu .image img {*/
-/*    width: 140px;*/
-/*    height: 140px;*/
-/*    border-radius: 50%;*/
-/*    text-align: center;*/
-/*}*/
 
 .menu .sepi-content {
     height:100px;
@@ -243,31 +234,7 @@ html {
     line-height: 100px;
 }
 
-/*.menu .author-content span {*/
-/*    font-size: 13px;*/
-/*    font-style: italic;*/
-/*    color: #fff;*/
-/*}*/
 
-/* .menu .social-network {
-    margin-top: 60px;
-}
-
-.menu .social-network ul li {
-    margin: 0 3px;
-}
-
-.menu .social-network ul li a {
-    width: 40px;
-    height: 40px;
-    display: inline-block;
-    text-align: center;
-    line-height: 40px;
-    background-color: rgba(0, 0, 0, 0.2);
-    color: #fff;
-    font-size: 14px;
-    transition: all 0.5s;
-} */
 
 .menu:before,
 .menu:after {
@@ -696,10 +663,7 @@ section.my-edu .section-heading {
     /*border:1px solid #0059ff;*/
 }
 
-/*.isotope-toolbar p {*/
-/*    border-top: 1px solid #fff;*/
-/*    padding-top: 15px;*/
-/*}*/
+
 
 .isotope-toolbar a {
     color: #fff;
