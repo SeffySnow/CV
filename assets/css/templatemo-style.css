@@ -934,7 +934,7 @@ section.my-point{
     .section {
         width: 94%;
         right: 3%;
-        left: 3%;
+        left: 30%;
     }
 
     .isotope-item {
@@ -971,5 +971,6 @@ section.my-point{
     #last-sec{
         width:100%;
     }
+    
 
 }
