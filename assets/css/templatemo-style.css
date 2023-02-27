@@ -973,9 +973,8 @@ section.my-point{
     }
     #last-sec{
         margin-left:0;
-        margin-right: 0
-    ;padding: 0;
-        width:100%;
+        margin-right: 0;
+        width:100% !important;
     }
     
 
