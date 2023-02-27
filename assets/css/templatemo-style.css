@@ -92,7 +92,7 @@
             animation: fadeInOut 2s;
             animation-iteration-count: infinite;
 
-        } */
+        }
 body {
     font-family: 'Lato', sans-serif;
 }
@@ -105,7 +105,7 @@ body {
     background-size: cover;
     width: 100%;
     min-height:100vh;
-}
+} */
 
 
 /* Basic */
@@ -641,7 +641,7 @@ section.my-edu .section-heading {
 
 }
 .grades .number{
-    font-size: 12px; !important;
+    font-size: 12px !important;
     font-style: italic;
     display: inline-block;
     color: #699acb;
