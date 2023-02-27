@@ -435,6 +435,7 @@ html {
     padding-top: 1%;
     padding-left:15px;
     font-size: 17px;
+    text-align: left;
     /*border:2px solid red;*/
 }
 
@@ -959,6 +960,11 @@ section.my-point{
     }
     .section .my-point{
         width:100%;
+    }
+    #last-sec{
+        margin-left:0;
+        margin-right: 0;
+        width:100% !important;
     }
 }
 @media screen and (max-width: 500px){
