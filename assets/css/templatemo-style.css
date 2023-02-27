@@ -213,7 +213,7 @@ html {
 .main-nav li:hover a,
 .main-nav li.active a {
     background: rgba(215, 215, 215, 0.7);;
-    color: #898fb0;
+    color: #363946;
 }
 
 /* Sidebar Menu */
