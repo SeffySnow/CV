@@ -99,14 +99,14 @@ body {
 }
 
 #page-wraper {
-    background: url(../images/global-communication-background-business-network-design.webp) no-repeat center center fixed;
+    background: url(../images/size-changed.webp) no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
     width: 100%;
     min-height:100vh;
-    @media (max-width: @iphone-screen) {
+    @media screen and (max-width: @iphone-screen) {
         background-attachment: scroll;
     }
 } 
