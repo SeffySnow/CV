@@ -654,7 +654,6 @@ section.my-edu .section-heading {
     position: relative;
     width: 100%;
     margin-left: 3%;
-
 }
 
 .isotope-toolbar {
@@ -834,6 +833,11 @@ section.my-point{
     display: none;
 }
 @media screen and (max-width: 845px) {        
+
+    .isotope-box {
+        margin-left: 0;
+    }
+
     #menu-toggle,
     #menu-close {
         display: inline-block;
@@ -847,27 +851,25 @@ section.my-point{
         transition: transform 233ms cubic-bezier(0, 0, 0.21, 1);
         transition: transform 233ms cubic-bezier(0, 0, 0.21, 1), -webkit-transform 233ms cubic-bezier(0, 0, 0.21, 1);
     }
-        .menu .sepi-content h4 {
-    margin-bottom: 0px;
-        font-size: 19px;
-    line-height: 100px;
-}
+    .menu .sepi-content h4 {
+        margin-bottom: 0px;
+            font-size: 19px;
+        line-height: 100px;
+    }
 
 
     .context-a {
         font-size: 11px;
         padding-right: 5px;
     }
-        .skills-item{
+    
+    .skills-item{
+        height:400px;
+    }
 
-    height:400px;
-}
     .isotope-item {
-   position: relative;
-
-
-
-}
+        position: relative;
+    }
     .info-a{
         width:90%;
     }
